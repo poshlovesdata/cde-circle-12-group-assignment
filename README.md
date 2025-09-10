@@ -5,7 +5,7 @@ The goal is to uncover business insights and present them to management.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 cde-circle-12-group-assignment/
@@ -17,7 +17,7 @@ cde-circle-12-group-assignment/
 
 ---
 
-## 📊 Analysis Conducted
+## Analysis Conducted
 
 We explored **four main business questions**:
 
@@ -43,7 +43,7 @@ We explored **four main business questions**:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone this repository:
 
@@ -61,7 +61,7 @@ We explored **four main business questions**:
 
 ---
 
-## 📑 Deliverables
+## Deliverables
 
 - SQL scripts (`/sql`)
 - Insights summary (`/insights`)
@@ -69,6 +69,6 @@ We explored **four main business questions**:
 
 ---
 
-## 📝 License
+## License
 
 This project is for **educational purposes** as part of the **CDE Assignment**.

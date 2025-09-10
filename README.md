@@ -3,6 +3,16 @@
 This project contains an **exploratory analysis** of the Parch & Posey database using **PostgreSQL**.
 The goal is to uncover business insights and present them to management.
 
+### Circle 12 Members
+- Oshundiya Oluwapelumi
+- Philippe Costa
+- Richard Akintola
+- Somto Omenkeukwu
+- Temidayo Popoola
+- Pius Femi Ifamuyiwa
+- Obinna Ofomah
+
+
 ---
 
 ## Project Structure
